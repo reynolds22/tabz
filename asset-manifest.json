@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tabz/static/css/main.6ed4bdef.css",
+    "main.js": "/tabz/static/js/main.7f0baf45.js",
+    "static/js/453.aa2f7c11.chunk.js": "/tabz/static/js/453.aa2f7c11.chunk.js",
+    "index.html": "/tabz/index.html",
+    "main.6ed4bdef.css.map": "/tabz/static/css/main.6ed4bdef.css.map",
+    "main.7f0baf45.js.map": "/tabz/static/js/main.7f0baf45.js.map",
+    "453.aa2f7c11.chunk.js.map": "/tabz/static/js/453.aa2f7c11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ed4bdef.css",
+    "static/js/main.7f0baf45.js"
+  ]
+}
