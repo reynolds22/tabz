@@ -1,7 +1,8 @@
-import Tabz from "./Component/tabz";
+import TabTest from "./Component/tab-test";
+import React from "react";
 
 function App() {
-  return <Tabz/>
+  return <TabTest/>
 };
 
 export default App;
